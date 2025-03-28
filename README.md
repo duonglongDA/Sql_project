@@ -1,6 +1,7 @@
 # Data Analyst Project
 ## Overview
-This project analyzes requirements using SQL: 
+This project analyzes requirements using SQL:
+
 1/ Retrieve the total number of orders placed.
 2/ Calculate the total revenue generated from pizza sales.
 3/ Identify the highest-priced pizza.
